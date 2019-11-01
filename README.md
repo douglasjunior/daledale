@@ -1,6 +1,6 @@
 # Raparigage Command Line Sound
 
-> Alô inspetô!
+🕺🍻 Alô inspetô! Como é que tá por ai papai?!
 
 ## Compatibility
 
@@ -29,10 +29,9 @@ Run command:
 
     npx raparigage
 
-
 ## See also
 
- - [DaleDale](https://github.com/anabastos/daledale)
+ - [Dale Dale](https://github.com/anabastos/daledale)
  - [Oloquinho](https://github.com/oloquinho/oloquinho)
  - [xFiles](https://github.com/BrOrlandi/xfiles/)
  - [Faustão Errou](https://github.com/BrOrlandi/faustao-errou/)

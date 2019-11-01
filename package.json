@@ -1,27 +1,30 @@
 {
-  "name": "daledale",
+  "name": "raparigage",
   "version": "1.0.0",
-  "description": "Dale dale dale dale pqp",
+  "description": "🕺🍻 Alô inspetô! Como é que tá por ai papai?!",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/anabastos/daledale.git"
+    "url": "https://github.com/douglasjunior/raparigage.git"
   },
   "keywords": [
-    "daledale"
+    "raparigage"
   ],
-  "author": "AnaBastos",
+  "author": {
+    "name": "Douglas Nassif Roma Junior",
+    "url": "https://github.com/douglasjunior"
+  },
   "license": "MIT",
   "bin": {
-    "daledale": "./index.js"
+    "raparigage": "./index.js"
   },
   "bugs": {
-    "url": "https://github.com/anabastos/daledale/issues"
+    "url": "https://github.com/douglasjunior/raparigage/issues"
   },
-  "homepage": "https://github.com/anabastos/daledale#readme",
+  "homepage": "https://github.com/douglasjunior/raparigage#readme",
   "dependencies": {
     "ramda": "^0.26.1"
   }
