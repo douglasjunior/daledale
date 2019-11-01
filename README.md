@@ -31,6 +31,7 @@ Run command:
 
 ## See also
 
+ - [Meio dia](https://github.com/douglasjunior/meiodia)
  - [Dale Dale](https://github.com/anabastos/daledale)
  - [Oloquinho](https://github.com/oloquinho/oloquinho)
  - [xFiles](https://github.com/BrOrlandi/xfiles/)
